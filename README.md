@@ -1,2 +1,4 @@
-# ReceipeWebApp![Screenshot (17)](https://user-images.githubusercontent.com/35447771/159200342-a1a35eb6-0f4c-414c-add2-db7c6706ca74.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/35447771/159200346-f819db8c-95e6-4a4e-a5ed-e095f9ab18d2.png)
+# ReceipeWebApp!
+
+![Screenshot (18)](https://user-images.githubusercontent.com/35447771/159200413-5c7556e2-9f30-4ab4-9073-62c867098b3b.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/35447771/159200451-066f8747-a16a-4f3d-9f48-6bf8ef003973.png)
